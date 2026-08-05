@@ -5,7 +5,7 @@
 ```
 D:\testQunt\
 │
-├── 量化交易学习路线.md          ← 学习路线总纲
+├── 学习路线.md                   ← 学习路线总纲
 ├── README.md                     ← 本文件
 ├── .gitignore
 │
